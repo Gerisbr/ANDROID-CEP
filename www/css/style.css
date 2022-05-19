@@ -1,0 +1,24 @@
+
+html,
+body{
+    background-color:#e4d01e;
+    background-image: url(../img/correios-logo-3.png);
+    background-repeat: no-repeat;
+    background-position: left 110%;
+    background-size: 100%;
+    
+}
+
+.container {
+    display: flex!important;
+    justify-content: center!important;
+    height: 100%!important;
+}
+
+.phone{
+    width: 369px;
+    margin-top:5rem;
+    margin-bottom:5rem;
+    border: 1px solid rgb(100, 91, 11);
+    border-radius: 10px;
+}
